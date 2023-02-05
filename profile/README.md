@@ -1,4 +1,4 @@
-# This the home of the Robusto organization! #
+# Welcome to Robusto’s site on GitHub! #
 
 ## Vision
 *A world where no tech builder has to choose between security, redundancy, maintainability and low cost.*
